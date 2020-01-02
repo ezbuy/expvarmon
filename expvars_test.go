@@ -4,7 +4,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/divan/expvarmon/pkg/fetch"
+	"github.com/ezbuy/expvarmon/pkg/fetch"
 )
 
 const (
