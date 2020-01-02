@@ -1,11 +1,11 @@
 package main
 
 import (
-	"github.com/divan/expvarmon/pkg/fetch"
 	"net/url"
 	"strings"
 	"sync"
 
+	"github.com/ezbuy/expvarmon/pkg/fetch"
 	"github.com/antonholmquist/jason"
 )
 

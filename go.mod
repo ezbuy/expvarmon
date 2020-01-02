@@ -1,4 +1,4 @@
-module github.com/divan/expvarmon
+module github.com/ezbuy/expvarmon
 
 require (
 	github.com/antonholmquist/jason v1.0.0
